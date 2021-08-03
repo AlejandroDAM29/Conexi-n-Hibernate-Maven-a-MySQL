@@ -1,0 +1,2 @@
+Recuerda que debes probar este programa en una base de datos MySQL y usando el usuario y 
+contraseñas indicados en el archivo de configuración de Hibernate
